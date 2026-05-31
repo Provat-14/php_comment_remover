@@ -43,5 +43,5 @@ function cleanFile($filePath) {
 }
 
 // add your folder or file.ext name
-$inputPath = './test.php'; 
+$inputPath = './delete.php'; 
 processPath($inputPath);
